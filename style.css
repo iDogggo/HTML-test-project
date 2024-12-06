@@ -1,0 +1,11 @@
+.Headline {
+    background-color: orange;
+    text-align: center;
+}
+
+.link {
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
